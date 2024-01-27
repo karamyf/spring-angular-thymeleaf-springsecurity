@@ -1,5 +1,5 @@
 # KeyCloak
-## real creation
+## realm creation
 <img width="1680" alt="1" src="https://github.com/karamyf/spring-angular-thymeleaf-springsecurity/assets/91606912/6d504068-b37b-42b2-af62-6773fb7a1c0b">
 
 ![image](https://github.com/karamyf/spring-angular-thymeleaf-springsecurity/assets/91606912/7814d321-1b7e-4d7b-9039-fc208367a613)
