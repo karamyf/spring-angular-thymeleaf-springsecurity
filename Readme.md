@@ -9,5 +9,11 @@
 
 ![image](https://github.com/karamyf/spring-angular-thymeleaf-springsecurity/assets/91606912/4e096723-0663-4698-9f22-deb4a376d2ac)
 
-## Routes Protection
+## Users Roles - Routes Protection
 <img width="821" alt="pr" src="https://github.com/karamyf/spring-angular-thymeleaf-springsecurity/assets/91606912/d75a2a8b-3cc2-477f-a787-8a641f349422">
+
+## Admin Clients
+![4](https://github.com/karamyf/spring-angular-thymeleaf-springsecurity/assets/91606912/73c23ca8-2ed2-4f40-b10b-d185ff2a6989)
+
+## Admin Products
+![image](https://github.com/karamyf/spring-angular-thymeleaf-springsecurity/assets/91606912/dba2ab09-1775-4872-bb17-88f1aad38d7c)
